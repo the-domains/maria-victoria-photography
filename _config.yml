@@ -1,4 +1,4 @@
-name: Maria Victoria Photography
+name: Maria Victoria
 favicon: null
 layout_spectrum: 0.13247959199361503
 typography_spectrum: 0.6042848012875766
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.17896587937138975
-  lightness: 0.7263106454629451
-  saturation: 0.29413040494546294
-  rhythmicContrast: 0.33519480703398585
+    - '#eef3f6'
+    - '#c7c2c6'
+    - '#000000'
+    - '#515151'
+    - '#7a8773'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
